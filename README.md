@@ -17,3 +17,8 @@ az aks create -n myCluster -g "${resourceGroup}" --network-plugin azure --enable
 ````
 # 
 ````
+
+
+## Configurar el Certificado tls para el Ingress Referencia
+
+[![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)](https://adolfi.dev/blog/tls-kubernetes/)
